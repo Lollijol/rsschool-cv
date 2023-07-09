@@ -1,5 +1,5 @@
 Name and surname: Artyom Udaloy     
-<img src="https://github.com/Lollijol/rsschool-cv/blob/gh-pages/Photo1.png" width="300" height="250">
+<img src="https://github.com/Lollijol/rsschool-cv/blob/gh-pages/Photo1.png" width="300" height="260">
 =
 ___
 
